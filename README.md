@@ -5,6 +5,7 @@
 
 This project introduces an AI-driven **one-to-one advertising system** that combines **Web Scraping, NLP, LLMs, and Retrieval Augmented Generation (RAG)** to optimize ad placements. The addition of RAG enhances personalization by retrieving real-time contextual data before ad generation. This approach improves ad relevance, engagement, and privacy-conscious personalization, offering a robust framework for next-generation digital advertising. Below is an overview of the analysis, along with sample outputs and results. This project was done in May' 2024.
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 
 
